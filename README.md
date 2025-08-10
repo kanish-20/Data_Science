@@ -6,3 +6,11 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 ### 1. Classification
 
+ **Decision tree** - [Diabetes_Preiction](https://github.com/kanish-20/Diabetes_predictor.git)
+ **KNN (K-Nearest Neighbors)** - [Disease_prediction](
+ **Random forest** - 
+ **Logistic Regression** -
+
+ ### 2. Regression
+
+ **Linear Regression** - 
