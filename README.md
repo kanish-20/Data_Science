@@ -13,6 +13,8 @@ Supervised learning uses labeled data to train models for predictions. It is div
  **Random forest** - [Student_result](https://github.com/kanish-20/Student_performance_predictor.git)
  
  **Logistic Regression** - [Loan_Approval](https://github.com/kanish-20/Loan_approval_predictor.git)
+ 
+ **Suuport Vector Machine(SVM)** - [Spam_detection](https://github.com/kanish-20/Spam_detection.git)
 
  ### 2. Regression
 
