@@ -16,6 +16,8 @@ Supervised learning uses labeled data to train models for predictions. It is div
  
  **Suuport Vector Machine(SVM)** - [Spam_detection](https://github.com/kanish-20/Spam_detection.git)
 
+ **Naive Bayes** - [Sentiment_analysis](https://github.com/kanish-20/Sentiment_analysis.git)
+
  ### 2. Regression
 
  **Linear Regression** - [House_price](https://github.com/kanish-20/house-price-predictor.git)
