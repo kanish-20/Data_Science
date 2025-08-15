@@ -23,3 +23,5 @@ Supervised learning uses labeled data to train models for predictions. It is div
  ### 2. Regression
 
  **Linear Regression** - [House_price](https://github.com/kanish-20/house-price-predictor.git)
+
+ **Lasso Regression** - [Car_price](https://github.com/kanish-20/Car_price_prediction.git)
