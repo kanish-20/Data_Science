@@ -34,4 +34,6 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
  ### 1. Clustering
 
- - **K-Means** – [Customer_segmentation](https://github.com/kanish-20/Customer_segmentation.git)
+  **K-Means** – [Customer_segmentation](https://github.com/kanish-20/Customer_segmentation.git)
+
+  **Hierarchical Clustering** - 
