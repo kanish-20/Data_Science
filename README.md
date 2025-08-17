@@ -1,5 +1,5 @@
 # Data_Science - Machine Learning Algorithms
-This repository contains a collection of Machine Learning algorithms organized by Supervised Learning methods, along with links to respective GitHub repositories for each algorithm.
+This repository contains a collection of Machine Learning algorithms organized by Supervised and Unsupervised Learning methods, along with links to respective GitHub repositories for each algorithm.
 
 ## Supervised Learning
 Supervised learning uses labeled data to train models for predictions. It is divided into two types:
@@ -27,3 +27,11 @@ Supervised learning uses labeled data to train models for predictions. It is div
  **Lasso Regression** - [Car_price](https://github.com/kanish-20/Car_price_prediction.git)
 
  **Ridge Regression** - [Laptop_price](https://github.com/kanish-20/Laptop_price.git)
+
+ # Unspervised Learning
+
+ Unsupervised learning uses unlabeled data to find patterns and relationships.
+
+ ### 1. Clustering
+
+ - **K-Means –** 
