@@ -38,4 +38,8 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
   **Hierarchical Clustering** - [Document_cluster](https://github.com/kanish-20/Document_cluster.git)
 
-  **DBSCAN** - 
+  **DBSCAN** - [Socialmedia_cluster](https://github.com/kanish-20/Socialmedia_clustering.git)
+
+ ### 2.Dimensionality Reduction
+
+ **PCA (Principal Component Analysis)** - 
