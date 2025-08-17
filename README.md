@@ -42,4 +42,4 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
  ### 2.Dimensionality Reduction
 
- **PCA (Principal Component Analysis)** - 
+ **PCA (Principal Component Analysis)** - [Patient_analysis](https://github.com/kanish-20/Patient_analysis.git)
